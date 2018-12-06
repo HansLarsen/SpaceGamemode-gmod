@@ -1,0 +1,13 @@
+"hax.spaceage"
+{
+	"base"		"base"
+	"title"		"Spaceage"
+	"maps"		"^sb_"
+	"menusystem"	"1"
+
+	"4"
+	{
+		"label" "Hax.Spaceage"
+		"command" "connect 127.0.0.1"
+	}
+}
